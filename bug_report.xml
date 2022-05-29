@@ -1,0 +1,17 @@
+<Bug_id> 1 </Bug_id> 
+<Title> The "pay" button is missing
+<Severity> major </Severity>
+<Priority> high </Priority>
+<Precondition>
+<item1> 1.Payment page. </item1>
+<item2> 2.Platform and device don't matter.<item2>
+</Precondition>
+<Step to reproduce>
+<item3> 1.Log in </item3>
+<item4> 2.Add item to cart.</item4>
+<item5> 3.Click the pay button.</item5>
+</Step to reproduce>
+<AR> The "pay" button is missing. </AR>
+<ER> You can click on "pay" button.</ER> 
+<Attachments> https://drive.google.com/file/ </Attachments>
+
